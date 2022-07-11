@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 public class test_2003 {
 
 	public static void main(String[] args) throws IOException {
-		// 백준 2003번 유형 : 투포인터
+		// 백준 2003번, 유형 : 투포인터
 		
 		// while true [설 명]
 		// 1. while (true) : 무한루프(계속) 프로그램을 반복적으로 실행한다
