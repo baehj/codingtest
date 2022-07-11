@@ -10,7 +10,7 @@ FROM (SELECT TO_CHAR(datetime, 'HH24') AS hour, count(*) AS count
 WHERE B.hour = A.hour(+)
 ORDER BY B.hour;
 
---** 개념 체크
+--*** 개념 체크
 
 --1) LEVEL과 CONNECT BY
 --	계층데이터. CONNECT BY 는 LEVEL의 계층의 깊이를 의미. 
