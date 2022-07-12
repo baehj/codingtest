@@ -1,2 +1,8 @@
-# programmers
-programmers 코딩테스트 연습문제 
+# coding test practice
+
+baekjoon & programmers
+
+- java
+- oracle 
+
+평일 1일 1커밋 👊
