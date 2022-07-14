@@ -16,7 +16,7 @@ WHERE A.Cart_Id = B.Cart_id
 And   A.Name = 'Milk'
 And   B.Name = 'Yogurt'
 And   A.name <> B.name
-order by A.cart_id
+order by A.cart_id;
 
 -- 남 쿼리 내가 수정 (DISTINCT로 중복거르기. A.name<>B.name 왜한지 모르겠어서 뺌. 어차피 다르지 않나?)
 SELECT DISTINCT A.CART_ID
@@ -24,7 +24,7 @@ FROM CART_PRODUCTS A, CART_PRODUCTS B
 WHERE A.Cart_Id = B.Cart_id 
 And   A.Name = 'Milk'
 And   B.Name = 'Yogurt'
-order by A.cart_id
+order by A.cart_id;
 
 --------------------------------------------------------------------------------
 
