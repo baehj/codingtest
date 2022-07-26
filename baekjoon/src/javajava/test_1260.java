@@ -7,7 +7,7 @@ import java.util.Scanner;
 //백준 1260번 문제, 유형 : DFS와 BFS
 public class test_1260 {
 	
-	//함수에서 사용할 변수들
+	//함수에서 사용할 변수들 
 	  static int[][] check; //간선 연결상태
 	  static boolean[] checked; //확인 여부
 	  static int n; //정점개수
