@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-//백준 1260번 문제, 유형 : DFS와 BFS
+//백준 1260번 문제, 유형 : DFS와 BFS 
 public class test_1260 {
 	
 	//함수에서 사용할 변수들 
