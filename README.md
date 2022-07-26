@@ -4,5 +4,5 @@ baekjoon & programmers
 
 - java
 - oracle 
+- mysql
 
-평일 1일 1커밋 👊
