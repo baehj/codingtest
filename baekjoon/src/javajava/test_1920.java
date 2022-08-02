@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class test_1920 {
-	// 백준 1920번 문제, 유형 : 버블소팅
+	// 백준 1920번 문제, 유형 : 이진탐색
 	// 단순 반복문으로는 시간초과함에 유의.
 	
 	public static void main(String[] args) {
