@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 public class p03 {
 
 	public static void main(String[] args) throws IOException {
-		// 백준 11659번 문제 
+		// 백준 11659번 문제와 유사
 		// 구간합을 구하는 문제는 합배열을 이용하기!
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
