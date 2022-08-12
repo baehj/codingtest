@@ -27,7 +27,7 @@ public class test_1707 {
 			for(int i=1; i<=V; i++) {
 				A[i] = new ArrayList<Integer>();
 			}
-			// 에지 데이터 저장하기.
+			// 에지 데이터 저장하기. (인접정보 저장.)
 			for(int i=0; i<E; i++) {
 				s = br.readLine().split(" ");
 				int start = Integer.parseInt(s[0]);
