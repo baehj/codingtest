@@ -10,7 +10,7 @@ public class test_220826 {
 	// test
 	public static void main(String[] args) {
 		int K = 3;
-		String[] user_scores = {"alex111 100", "cheries2 200", "alex111 200", "cheries2 150", "coco 50", "coco 200"};
+		String[] user_scores = {"a1 100", "c1 200", "a1 200", "c1 150", "c2 50", "c2 200"};
 		int answer = 1;
         
 		int[] rank = new int[3];
