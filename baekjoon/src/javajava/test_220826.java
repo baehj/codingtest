@@ -9,10 +9,9 @@ import java.util.Map;
 public class test_220826 {
 	// test
 	public static void main(String[] args) {
-		int K = 3;
-		String[] user_scores = {"a1 100", "c1 200", "a1 200", "c1 150", "c2 50", "c2 200"};
+		
 		int answer = 1;
-        
+		String[] user_scores = { aa1, aa2, aa3, aa4, aa5};
 		int[] rank = new int[3];
 		
 		HashMap<String, Integer> map = new HashMap<>();
