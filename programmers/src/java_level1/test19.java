@@ -1,7 +1,7 @@
 package java_level1;
 
 public class test19 {
-
+	// 가운데 글자 가져오기
 	public static void main(String[] args) {
 		String s = "abcsde";
 		String answer = "";
