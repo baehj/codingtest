@@ -9,7 +9,7 @@ public class test3 {
         
         if(n%7 == 0){
             answer[0] = count*2;
-            answer[1] = count*2;
+            answer[1] = count*2; 
         }else if(n%7 == 1){
             answer[0] = count*2;
             answer[1] = count*2+1;
